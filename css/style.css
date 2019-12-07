@@ -1,0 +1,44 @@
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .flex-container > div {
+    margin: 15px 0px 0px 0px;
+  }
+  .flex-container-footer {
+    display: flex;
+    justify-content: center;
+
+  }
+  #Featuered-Work{margin-left: 15px ; color: grey; margin-top: 20px}
+  
+  a {display:block;}
+
+  footer {background: rgb(226, 223, 223);
+padding:20px; margin-top: 20px}
+  
+  .Featuered-Work-images {width:250px; height:200px;
+
+  }
+main section img#mainImage{
+    width:1110px;
+}
+ 
+
+
+main section#Featuered-Works img{
+    width: 350px;
+    height: 200px;
+}
+
+.img-width{
+    width: 200px;
+}
+
+img{
+
+    border-radius: 10px
+}
